@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TKemal/Responsive-Portfolio-Website.git"
+  },
+  "author": "Kemal Tihic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TKemal/Responsive-Portfolio-Website/issues"
+  },
+  "homepage": "https://github.com/TKemal/Responsive-Portfolio-Website#readme",
+  "dependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
